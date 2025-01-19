@@ -2,4 +2,4 @@
 
 # Workshop 
 
-Initiation à GamePy en plusieurs étapes
+Initiation à PyGame en plusieurs étapes
